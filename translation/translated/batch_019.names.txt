@@ -1,0 +1,132 @@
+Luckwright | Лакрайт
+Nuppmiddt | Нуппмідт
+Flitterstone Isle | Острів Мерехткамінь
+Westergren | Вестергрен
+Boreal Reach | Борейський Простір
+Johannesson | Йоганнесон
+Tusler | Таслер
+Stoddard | Стоддард
+Dathooley | Датулі
+Arntzen | Арнцен
+Van Horn | ван Горн
+Carlisle | Карлайл
+McMaster | Макмастер
+Wanderer's Haven | Гавань Мандрівника
+Bugsby | Багсбі
+Lesley | Леслі
+Gardiner | Гардінер
+Odinson Straits | Протоки Одінсона
+Rainer | Райнер
+Velten | Вельтен
+Rubenach | Рубенах
+Bubel | Бубель
+Albertine | Альбертина
+O'Keefe | О'Кіф
+Regal Complexus | Регал Комплексус
+Geryk | Ґерик
+Ogedei | Огедей
+Lipiäinen | Ліпяйнен
+Peterson | Петерсон
+Thornwell | Торнвелл
+Stonesoul Isles | Острови Кам'яної Душі
+Wilbert | Вілберт
+The Ragged Crow | Обшарпаний Ворон
+Carissa | Карисса
+Horneman | Хорнеман
+Pickett | Пікетт
+Void's Approach | Підхід Порожнечі
+Pourzia | Пурзія
+Massey's Shaft | Шахта Мессі
+A generic tile | Типова ділянка
+Aphotic Quills | Афотичні Голки
+Chatranic Lobe | Чатранічна Частка
+Errant's Gyrus | Звивина Блукача
+The Sisterhood | Сестринство
+Murray | Мюррей
+Rowena | Ровена
+Nathan | Натан
+Harper's Ferry | Переправа Гарпера
+Censor's Arch | Арка Цензора
+Patrick's Lot | Наділ Патрика
+Runeshmi | Рунешмі
+Moody's Light | Маяк Муді
+Purewal | Пурівал
+Sycamore Arch | Явірна Арка
+Cugel | Кюгель
+Ambrose | Амброуз
+Weaver's Rift | Розлам Ткача
+Bidmead | Бідмід
+Tiggelaar | Тіггелар
+Ptacek | Птачек
+Banning | Беннінг
+Erdonmez | Ердонмез
+Reef of Roses | Риф Троянд
+Peter (Peter's Rocks) | Петро
+The Undercrow | Підворон
+Elifaus | Еліфаус
+Chong Yi | Чонг Ї
+The Calumnies | Наклепи
+Cob's Way Bay | Затока Шляху Коба
+Rolias | Роліас
+Becker | Бекер
+Castle Clare | Замок Клер
+Achlys | Ахліс
+Gossamer Way | Павутинний Шлях
+The Nativity | Різдво
+Duggan | Даґан
+Pillared Sea | Колонне Море
+Brock | Брок
+Scott | Скотт
+Lorkins | Лоркінс
+Skylar | Скайлар
+Vinno | Вінно
+Sea of Wings | Море Крил
+Kapalka | Капалка
+Saints-Haven | Гавань Святих
+Cant | Кант
+Pale Wastes | Бліді Пустища
+Dybala | Дибала
+Schabelport | Шабельпорт
+Dawn's Edge | Край Світанку
+Zelo | Зело
+Corkery | Коркері
+Bonny Reefs | Красиві Рифи
+Torry | Торрі
+Adam's Doom | Погибель Адама
+Nablus | Наблус
+Noctic Lobe | Ноктична Частка
+Wolf's Rift | Розлам Вовка
+Tanah-Chook | Тана-Чук
+Eeken | Ікен
+Port Addey | Порт Адді
+Myceligaea | Мицелігея
+Abora Gate | Брама Абори
+Pennington | Пеннінгтон
+Fieldhaven | Полегавань
+Stormbones | Бурекості
+Ewan | Юен
+The Snares | Сильця
+Davies | Дейвіс
+Apis Meet | Зустріч Апіса
+Sachatown | Сачатаун
+Stryketon | Страйктон
+Dow's Ait | Острівець Дау
+Commingle | Злиття
+Aeschaven | Есхейвен
+Zeel Port | Порт Зіл
+Crabcake | Крабовий Коржик
+Rattsey | Реттсі
+Forlorn (ship name) | Покинутий
+Taimen | Таймень
+Endure (ship name) | Незламний
+Brite (ship name) | Яскравий
+Teneb | Тенеб
+Upton | Аптон
+Obey (ship name) | Скорися
+the Poissonnier | Пуасоньє
+the Host of Hyenas | Військо Гієн
+the city of Caution | місто Обережність
+the Persimmon Gate | Хурмова Брама
+the Mountain (Presbyterate lore) | Гора
+Murinia | Мурінія
+the Austere Acolyte | Сувора Послушниця
